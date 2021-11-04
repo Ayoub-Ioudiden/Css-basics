@@ -1,0 +1,29 @@
+body{
+    background-color:darkgray;
+    color:black;
+    font-family:Tahoma;
+    font-weight:normal;
+    line height:1.6em;
+}
+
+.green-border{
+    border:solid 3px green;
+
+
+}
+
+.red-border{
+    border:dotted 3px red;
+    font-size: 85%;
+    color:yellow;
+    font-family:Verdana;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+img{
+    height:300px;
+}
